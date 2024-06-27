@@ -1,52 +1,10 @@
 # Meu-README-de-Estudos
 Arquivo READ-ME explicativo das tecnologias, e afins que vou estudar no ESTARTANDO DEVS
 
+Este arquivo foi pensado para levar um controle dos estudos que estou levando a cabo no ESTARTANDO DEVS a modo de checklist, para ser atualizado cada vez uma nova parte dele seja abordado.
 
-### Versionamento de Código
- **I. Conceitos básicos de Git com GitHub**
-  - [ ] Branch
-  - [ ] Commit
-  - [ ] Merge
-  - [ ] Pull Request
 
-- [ ] **II. Configuração de ambiente de desenvolvimento**
 
-### Páginas Web
- **I. Estrutura de um documento HTML e Principais Tags e Tags Semânticas**
-  - [ ] CSS e Propriedades Mais Utilizadas
-  - [ ] Desenvolvimento Responsivo com Media Query e Flexbox
-  - [ ] Pré-processadores CSS
-
- **II. Programação em JavaScript**
-  - [ ] Variáveis e Tipos de dados
-  - [ ] Operadores Lógicos e Operadores Aritméticos
-  - [ ] Condicionais e Loops
-  - [ ] DOM e Formulários
-  - [ ] Requisições HTTP e Promises
-
-### Padrões de Projeto
-- [ ] DRY (Don't Repeat Yourself)
-- [ ] Component-based Architecture
-- [ ] SOLID
-- [ ] Observer
-
-### Empacotadores
-**I. Conceitos gerais e Empacotadores**
-  - [ ] Webpack
-  - [ ] Parcel
-  - [ ] Rollup
-
-- [ ] **II. Projeto conjunto utilizando Webpack**
-
-### Programação Orientada a Objetos (POO)
-- [ ] **I. TypeScript e tipagem de dados**
-
-- [ ] **II. Classes, interfaces, construtor, métodos e atributos**
-
-### Angular
-  - [ ] Sintaxe
-  - [ ] Estrutura de pastas e arquivos
-  - [ ] Versões anteriores
 
 
 
